@@ -1,0 +1,61 @@
+Run 1:
+Number of processes = 1
+Time = 3.647804e-05 seconds
+Number of processes = 1
+Time = 7.200241e-05 seconds
+Number of processes = 1
+Time = 1.590252e-04 seconds
+Number of processes = 1
+Time = 3.659725e-04 seconds
+Number of processes = 1
+Time = 5.745888e-04 seconds
+
+Run 2:
+Number of processes = 1
+Time = 3.743172e-05 seconds
+Number of processes = 1
+Time = 7.176399e-05 seconds
+Number of processes = 1
+Time = 1.595020e-04 seconds
+Number of processes = 1
+Time = 2.834797e-04 seconds
+Number of processes = 1
+Time = 5.640984e-04 seconds
+
+Run 3:
+Number of processes = 1
+Time = 3.719330e-05 seconds
+Number of processes = 1
+Time = 7.271767e-05 seconds
+Number of processes = 1
+Time = 1.602173e-04 seconds
+Number of processes = 1
+Time = 2.830029e-04 seconds
+Number of processes = 1
+Time = 5.629063e-04 seconds
+
+Run 4:
+Number of processes = 1
+Time = 3.790855e-05 seconds
+Number of processes = 1
+Time = 7.200241e-05 seconds
+Number of processes = 1
+Time = 1.521111e-04 seconds
+Number of processes = 1
+Time = 2.822876e-04 seconds
+Number of processes = 1
+Time = 5.753040e-04 seconds
+
+Run 5:
+Number of processes = 1
+Time = 4.482269e-05 seconds
+Number of processes = 1
+Time = 7.200241e-05 seconds
+Number of processes = 1
+Time = 1.423359e-04 seconds
+Number of processes = 1
+Time = 3.123283e-04 seconds
+Number of processes = 1
+Time = 5.724430e-04 seconds
+
+
